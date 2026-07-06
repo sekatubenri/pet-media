@@ -3,6 +3,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: { default: 'ペット保険ナビ | 犬・猫の保険比較・おすすめ', template: '%s | ペット保険ナビ' },
   description: '犬・猫のペット保険を徹底比較。保険料・補償内容・口コミを詳しく解説。愛ペットに合った保険が見つかります。',
+  verification: { google: 'XcyMImXtiMlMj5NBeiKQBcD_Vqrw3EDW0TDFBVTAtaA' },
 }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
