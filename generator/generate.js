@@ -10,6 +10,12 @@ const AFFILIATE_TOP = `
     <li><a href="https://px.a8.net/svt/ejp?a8mat=PET_PLACEHOLDER_1" rel="nofollow" style="display:inline-block;background:#d97706;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ アニコム損保（シェアNo.1）</a></li>
     <li><a href="https://px.a8.net/svt/ejp?a8mat=PET_PLACEHOLDER_2" rel="nofollow" style="display:inline-block;background:#b45309;color:#fff;padding:8px 16px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:14px;">▶ ペット＆ファミリー（通院補償充実）</a></li>
   </ul>
+</div>
+<div style="background:#fdf4ff;border:2px solid #a855f7;border-radius:8px;padding:16px;margin:24px 0;">
+  <p style="font-weight:bold;color:#7e22ce;margin:0 0 8px;">【PR】愛犬のおしゃれ・ドッグウェア</p>
+  <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
+    <li><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3775271&pid=892655281" rel="nofollow" style="display:inline-block;background:#a855f7;color:#fff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">▶ お洒落なドッグウェア・犬服【Wan-Voyage（ワンボヤージュ）】</a><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3775271&pid=892655281" height="1" width="1" border="0" alt=""></li>
+  </ul>
 </div>`;
 const AFFILIATE_BOTTOM = `
 <div style="background:#fffbeb;border:2px solid #d97706;border-radius:8px;padding:16px;margin:24px 0;">
